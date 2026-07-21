@@ -1,0 +1,70 @@
+{
+  "title": "Counselling FYI Smart Career Compass",
+  "description": "An AI career guidance assistant that recommends suitable career paths based on interests, personality, aptitude, skills, and educational goals. An initiative by MeritTeacher powered by Counselling.fyi.",
+  "creators": [
+    {
+      "name": "Counselling.fyi",
+      "affiliation": "MeritTeacher"
+    }
+  ],
+  "keywords": [
+    "career guidance AI",
+    "career recommendation bot",
+    "AI career counsellor",
+    "career assessment tool",
+    "student career planning",
+    "career finder",
+    "education guidance",
+    "career roadmap generator",
+    "aptitude analysis",
+    "career AI assistant",
+    "MeritTeacher",
+    "Counselling FYI"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/counselling-fyi/Counselling-fyi-smart-career-compass",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://counselling.fyi",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://counselling.fyi/services/career-counselling/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://counselling.fyi/free-career-assessment/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@counselling-fyi/smart-career-compass",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/counselling-fyi/smart-career-compass-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/counsellingfyi/smart-career-compass-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/counselling-fyi-india-s-student-counselling-hub-by-merit-teacher/288692766",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

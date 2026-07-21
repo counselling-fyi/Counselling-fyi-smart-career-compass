@@ -1,0 +1,21 @@
+site_name: Counselling FYI Smart Career Compass
+site_url: https://counselling-fyi-smart-career-compass.readthedocs.io
+site_description: Open-source AI career guidance assistant recommending suitable career paths based on interests, personality, aptitude, skills, and educational goals.
+site_author: Counselling.fyi — MeritTeacher
+
+repo_name: counselling-fyi/Counselling-fyi-smart-career-compass
+repo_url: https://github.com/counselling-fyi/Counselling-fyi-smart-career-compass
+
+theme:
+  name: material
+  palette:
+    primary: purple
+    accent: deep-purple
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

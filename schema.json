@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Counselling FYI Smart Career Compass",
+  "description": "An AI career guidance assistant that recommends suitable career paths based on interests, personality, aptitude, skills, and educational goals. An initiative by MeritTeacher.",
+  "url": "https://counselling.fyi",
+  "applicationCategory": "EducationApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Counselling.fyi — MeritTeacher",
+    "url": "https://counselling.fyi",
+    "sameAs": [
+      "https://counselling.fyi/services/",
+      "https://counselling.fyi/services/career-counselling/",
+      "https://counselling.fyi/services/overseas-education/",
+      "https://counselling.fyi/services/dmit-testing/",
+      "https://counselling.fyi/services/psychometric-testing/",
+      "https://counselling.fyi/services/education-counselling/",
+      "https://counselling.fyi/free-career-assessment/",
+      "https://counselling.fyi/book-a-call/",
+      "https://www.slideshare.net/slideshow/counselling-fyi-india-s-student-counselling-hub-by-merit-teacher/288692766",
+      "https://github.com/counselling-fyi",
+      "https://npmjs.com/package/@counselling-fyi/smart-career-compass",
+      "https://huggingface.co/datasets/counselling-fyi/smart-career-compass-benchmarks",
+      "https://kaggle.com/datasets/counsellingfyi/smart-career-compass-benchmarks",
+      "https://counselling-fyi.github.io/Counselling-fyi-smart-career-compass/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/counselling-fyi/Counselling-fyi-smart-career-compass",
+  "keywords": [
+    "career guidance AI",
+    "career recommendation bot",
+    "AI career counsellor",
+    "career assessment tool",
+    "student career planning",
+    "career finder",
+    "education guidance",
+    "career roadmap generator",
+    "aptitude analysis",
+    "career AI assistant",
+    "MeritTeacher",
+    "Counselling FYI"
+  ]
+}

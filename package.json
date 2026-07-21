@@ -1,0 +1,37 @@
+{
+  "name": "@counselling-fyi/smart-career-compass",
+  "version": "1.0.0",
+  "description": "AI career guidance assistant recommending suitable career paths based on interests, personality, aptitude, skills, and educational goals. An initiative by MeritTeacher.",
+  "main": "index.js",
+  "bin": {
+    "smart-career-compass": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "career-guidance-ai",
+    "career-recommendation-bot",
+    "ai-career-counsellor",
+    "career-assessment-tool",
+    "student-career-planning",
+    "career-finder",
+    "education-guidance",
+    "career-roadmap-generator",
+    "aptitude-analysis",
+    "career-ai-assistant",
+    "meritteacher",
+    "counselling-fyi"
+  ],
+  "author": "Counselling.fyi — MeritTeacher",
+  "license": "MIT",
+  "homepage": "https://counselling.fyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/counselling-fyi/Counselling-fyi-smart-career-compass"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
