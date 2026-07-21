@@ -1,7 +1,7 @@
 # Counselling FYI Smart Career Compass 🎓🧭
 
 [![npm](https://img.shields.io/npm/v/@counselling-fyi/smart-career-compass)](https://npmjs.com/package/@counselling-fyi/smart-career-compass)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21471566.svg)](https://doi.org/10.5281/zenodo.21471566)
 
 An AI career guidance assistant that recommends suitable career paths based on interests, personality, aptitude, skills, and educational goals. An initiative by [MeritTeacher](https://counselling.fyi) powered by Counselling.fyi.
 
@@ -144,7 +144,7 @@ Career Guidance AI · Career Recommendation Bot · AI Career Counsellor · Caree
 | NPM | https://npmjs.com/package/@counselling-fyi/smart-career-compass |
 | Hugging Face | https://huggingface.co/datasets/counselling-fyi/smart-career-compass-benchmarks |
 | Kaggle | https://kaggle.com/datasets/counsellingfyi/smart-career-compass-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21471566 |
 | Docs | https://counselling-fyi-smart-career-compass.readthedocs.io |
 
 ## About Counselling.fyi
