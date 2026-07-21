@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/@counselling-fyi/smart-career-compass)](https://npmjs.com/package/@counselling-fyi/smart-career-compass)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21471566.svg)](https://doi.org/10.5281/zenodo.21471566)
 
-An AI career guidance assistant that recommends suitable career paths based on interests, personality, aptitude, skills, and educational goals. An initiative by MeritTeacher powered by Counselling.fyi.
+An AI career guidance assistant that recommends suitable career paths based on interests, personality, aptitude, skills, and educational goals. Counselling.fyi - Powered by Meritteacher.com
 
 ## Features
 
