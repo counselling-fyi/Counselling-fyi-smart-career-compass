@@ -1,0 +1,21 @@
+id,student_profile,career_interest,aptitude_score,interest_alignment_score,personality_match_score,skill_readiness_score,academic_strength_score,overall_career_fit,priority_action,top_path_1,top_path_2,top_path_3,top_path_4,country,grade_level,notes
+1,Arjun Sharma,engineering,88,82,90,72,85,83,Skill Readiness,Software Engineering,Data Science,AI & Machine Learning,Cybersecurity,India,Grade 12,Strong STEM aptitude
+2,Priya Nair,medicine,92,88,85,78,90,87,Skill Readiness,Clinical Medicine,Biomedical Research,Pharmacy,Public Health,India,Grade 12,Excellent science scores
+3,Rohan Verma,business,78,75,82,68,76,76,Skill Readiness,Entrepreneurship,Finance & Banking,Marketing,Human Resources,India,Grade 11,Good analytical skills
+4,Sneha Patel,arts,85,90,88,80,82,85,Skill Readiness,Graphic Design,Media & Journalism,Fine Arts,Film & Animation,India,Grade 12,Creative and expressive
+5,Kiran Kumar,science,90,85,88,75,92,86,Skill Readiness,Physics Research,Chemistry,Mathematics,Environmental Science,India,Grade 12,Outstanding science aptitude
+6,Meera Singh,law,80,78,85,70,82,79,Skill Readiness,Legal Practice,Policy & Governance,Corporate Law,Human Rights,India,Grade 12,Strong analytical reasoning
+7,Ankit Joshi,engineering,75,70,78,62,72,71,Skill Readiness,Software Engineering,Data Science,AI & Machine Learning,Cybersecurity,India,Grade 11,Needs skill development
+8,Divya Rao,education,82,88,85,76,80,82,Skill Readiness,Teaching,Academic Research,Curriculum Design,Educational Tech,India,Grade 12,Natural teaching ability
+9,Rahul Gupta,business,88,82,85,78,84,83,Skill Readiness,Entrepreneurship,Finance & Banking,Marketing,Human Resources,India,Grade 12,Leadership qualities
+10,Lakshmi Iyer,medicine,90,85,88,80,92,87,Skill Readiness,Clinical Medicine,Biomedical Research,Pharmacy,Public Health,India,Grade 12,Top science student
+11,Vijay Reddy,engineering,82,78,85,72,80,79,Skill Readiness,Software Engineering,Data Science,AI & Machine Learning,Cybersecurity,India,Grade 12,Consistent performer
+12,Pooja Sharma,arts,78,85,82,75,76,79,Skill Readiness,Graphic Design,Media & Journalism,Fine Arts,Film & Animation,India,Grade 11,Portfolio needs development
+13,Suresh Menon,agriculture,80,82,85,72,78,79,Skill Readiness,Agri-Tech,Environmental Science,Food Science,Agricultural Research,India,Grade 12,Rural background advantage
+14,Deepa Krishnan,social-work,75,88,82,70,72,77,Skill Readiness,Psychology,Counselling,Community Development,Social Policy,India,Grade 12,High empathy quotient
+15,Arun Pillai,science,88,85,90,78,86,85,Skill Readiness,Physics Research,Chemistry,Mathematics,Environmental Science,India,Grade 12,Research-oriented mind
+16,Nisha Jain,hospitality,80,85,88,76,78,81,Skill Readiness,Hotel Management,Tourism,Event Management,Travel & Aviation,India,Grade 12,People-oriented personality
+17,Sanjay Kumar,business,85,80,82,75,82,81,Skill Readiness,Entrepreneurship,Finance & Banking,Marketing,Human Resources,India,Grade 12,Good business acumen
+18,Kavya Nair,medicine,92,90,88,82,90,88,Skill Readiness,Clinical Medicine,Biomedical Research,Pharmacy,Public Health,India,Grade 12,Exceptional science aptitude
+19,Mohan Rao,engineering,78,75,80,68,76,75,Skill Readiness,Software Engineering,Data Science,AI & Machine Learning,Cybersecurity,India,Grade 11,Improving consistently
+20,Swati Mehta,arts,88,92,90,82,85,87,Skill Readiness,Graphic Design,Media & Journalism,Fine Arts,Film & Animation,India,Grade 12,Exceptional creative talent
