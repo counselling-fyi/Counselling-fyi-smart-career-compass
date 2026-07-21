@@ -143,7 +143,6 @@ Career Guidance AI · Career Recommendation Bot · AI Career Counsellor · Caree
 | GitHub Pages | https://counselling-fyi.github.io/Counselling-fyi-smart-career-compass/ |
 | NPM | https://npmjs.com/package/@counselling-fyi/smart-career-compass |
 | Hugging Face | https://huggingface.co/datasets/counselling-fyi/smart-career-compass-benchmarks |
-| Kaggle | https://kaggle.com/datasets/counsellingfyi/smart-career-compass-benchmarks |
 | Zenodo | https://zenodo.org/records/21471566 |
 | Docs | https://counselling-fyi-smart-career-compass.readthedocs.io |
 
