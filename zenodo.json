@@ -24,7 +24,7 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.21471566",
   "related_identifiers": [
     {
       "identifier": "https://github.com/counselling-fyi/Counselling-fyi-smart-career-compass",
@@ -36,6 +36,11 @@
       "relation": "isDocumentedBy",
       "scheme": "url"
     },
+    {
+  "identifier": "https://zenodo.org/records/21471566",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+     },    
     {
       "identifier": "https://counselling.fyi/services/career-counselling/",
       "relation": "isDocumentedBy",
